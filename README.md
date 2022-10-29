@@ -1,2 +1,3 @@
 # bit00notes
-This is my first repository
+## Hello! My name is Eleiza Caridad, this is my first repository. Thank you teacher for teaching me
+### Author: https://www.linkedin.com/in/eleiza-caridad-40701349
